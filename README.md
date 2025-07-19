@@ -25,7 +25,12 @@ Data diri @ CV. Putri Aurellia Mandiri | Staf Pajak & Keuangan
 - Pembuatan faktur pajak
 - Penggunaan EBUPOT
 - Pembuatan Kode Billing
-- Pelaporan SPT PPh, bulanan, dan tahunan 
+- Pelaporan SPT PPh, bulanan, dan tahunan
+
+### Pelatihan & Sertifikasi
+- Pelatihan Pengelolaan Keuangan dan Investasi dengan tema “Cerdas dan Aman Berinvestasi di Era Disrupsi Digital 4.0”
+- Pelatihan Pengenalan Konsep Ecological Fiscal Transfer (EFT)
+- Analisis dan Perencanaan Pembangunan Regional dengan pendekatan Input Output dan Inter Regional Input Output”
 
 ### Kontak
 - +62 8954 0653 8282
