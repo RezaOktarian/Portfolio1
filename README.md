@@ -7,7 +7,7 @@
 - SD Negeri 11 Indralaya | 2009 - 2015
 - SMP Negeri 1 Indralaya | 2015 - 2018
 - SMA Negeri 1 Indralaya | 2018 - 2021
-- Sarjana Ekonomi Pembangunan | Fakultas Ekonomi | Universitas Sriwijaya | 2021 - 2025
+- Universitas Sriwijaya | Ekonomi Pembangunan | 2021 - 2025
 
 ### Pengalaman Kerja
 Data diri @ CV. Putri Aurellia Mandiri | Staf Pajak & Keuangan
